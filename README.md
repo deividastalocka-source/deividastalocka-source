@@ -6,8 +6,6 @@
 
 **Computer Science Student | Aspiring IT Support Technician**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e87a&center=true&vCenter=true&width=640&lines=Building%20hands-on%20IT%20support%20skills;Learning%20through%20real-world%20projects;Working%20towards%20a%20career%20in%20IT)](https://git.io/typing-svg)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividast/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:david.talocka@gmail.com)
 
 ![Open to IT Support opportunities](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20IT%20Support%20opportunities-00e87a?style=flat-square) ![London, UK](https://img.shields.io/badge/London%2C%20UK-333?style=flat-square)
@@ -50,12 +48,6 @@ Computer Science student building hands-on experience in IT support, systems adm
 
 ## Languages
 - 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
-
-## GitHub Signals
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deividastalocka-source&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Deividas Talocka stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividastalocka-source&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Deividas Talocka top languages"/>
 
 <div align="center">
 
