@@ -32,7 +32,7 @@ Computer Science student building hands-on experience in IT support, systems adm
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,cs&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,cs,html,css&theme=dark" alt="Languages"/>
 
 **Backend & Databases**
 
@@ -40,7 +40,7 @@ Computer Science student building hands-on experience in IT support, systems adm
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="DevOps & Cloud"/>
 
 **Custom**
 
